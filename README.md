@@ -1,7 +1,3 @@
-Here’s your README formatted accordingly:
-
----
-
 # Instant Messaging System with FAST UDP File Transfer
 
 ## Overview
@@ -18,5 +14,4 @@ This project features an instant messaging system with a server and clients that
   * **Reliable Transfer:** Improved reliability through ACK mechanisms to manage packet loss.
   * **Optimized Speed:** Enhanced transfer speed with appropriate packet size planning and the Windowing Protocol.
 
----
 
